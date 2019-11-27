@@ -4,3 +4,8 @@ Node JS,
 Express JS,
 MongoDB,
 Angular.
+
+To run the project :
+Install NPM 
+Open the terminal and hit npm install 
+To run hit npm start
